@@ -1,0 +1,8 @@
+LALARM.X/build/
+LALARM.X/dist/
+LALARM.X/debug/
+LALARM.X/nbproject/private/
+LALARM.X/nbproject/Makefile-local-*.mk
+LALARM/LALARM-backups/
+LALARM/~*.lck
+LALARM/*.kicad_prl
