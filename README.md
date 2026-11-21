@@ -5,6 +5,12 @@
 
 **[説明ページ](https://westisland.jp/lalarm/)**
 
+## 基板
+
+| 表 | 裏 |
+|---|---|
+| <img src="images/LALARM_T.png" width="240"> | <img src="images/LALARM_B.png" width="240"> |
+
 ## フォルダ
 
 - `LALARM/` … 基板 (KiCad)
