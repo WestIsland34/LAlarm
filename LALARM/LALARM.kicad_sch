@@ -2745,7 +2745,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RUM002N05T2L"
+		(property "Value" "RC3134KM3"
 			(at 181.61 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2768,7 +2768,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://uk.rs-online.com/web/p/products/1778399"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5137092.html"
 			(at 181.61 283.82 0)
 			(hide yes)
 			(show_name no)
@@ -2780,7 +2780,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "1.2V Drive Nch MOSFET"
+		(property "Description" "20V 1.4A N-ch MOSFET SOT-723 (Pin 1=G, 2=S, 3=D)"
 			(at 170.18 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2803,7 +2803,7 @@
 				(justify left top)
 			)
 		)
-		(property "RS Part Number" "1778399"
+		(property "RS Part Number" ""
 			(at 181.61 583.82 0)
 			(hide yes)
 			(show_name no)
@@ -2815,7 +2815,7 @@
 				(justify left top)
 			)
 		)
-		(property "RS Price/Stock" "http://uk.rs-online.com/web/p/products/1778399"
+		(property "RS Price/Stock" ""
 			(at 181.61 683.82 0)
 			(hide yes)
 			(show_name no)
@@ -2827,7 +2827,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "ROHM Semiconductor"
+		(property "Manufacturer_Name" "RealChip"
 			(at 181.61 783.82 0)
 			(hide yes)
 			(show_name no)
@@ -2839,7 +2839,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RUM002N05T2L"
+		(property "Manufacturer_Part_Number" "RC3134KM3"
 			(at 181.61 883.82 0)
 			(hide yes)
 			(show_name no)
@@ -2849,6 +2849,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "LCSC" "C5137092"
+			(at 181.61 83.8199 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
